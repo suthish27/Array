@@ -1,4 +1,5 @@
 📚 Java Arrays – Overview
+
 🔢 What is an Array in Java?
 An array in Java is a container object that holds a fixed number of elements of the same data type. Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 
